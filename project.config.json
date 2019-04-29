@@ -1,13 +1,16 @@
 {
-  "description": "larabbs-weapp project",
-  "setting": {
-    "urlCheck": true,
-    "es6": false,
-    "postcss": false,
-    "minified": false
-  },
-  "compileType": "miniprogram",
-  "appid": "wxe14d62c5d98692a7",
-  "projectname": "larabbs-weapp",
-  "miniprogramRoot": "./dist"
+	"description": "larabbs-weapp project",
+	"setting": {
+		"urlCheck": true,
+		"es6": false,
+		"postcss": false,
+		"minified": false
+	},
+	"compileType": "miniprogram",
+	"appid": "wxe14d62c5d98692a7",
+	"projectname": "larabbs-weapp",
+	"miniprogramRoot": "dist/",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"condition": {}
 }
