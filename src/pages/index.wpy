@@ -1,7 +1,7 @@
 <template>
   <view class="page__bd">
             <view class="weui-panel weui-panel_access">
-                <view class="weui-panel__hd">图文组合列表</view>
+                <view class="weui-panel__hd">论坛信息列表</view>
                 <view class="weui-panel__bd">
                     <navigator url="" class="weui-media-box weui-media-box_appmsg" hover-class="weui-cell_active">
                         <view class="weui-media-box__hd weui-media-box__hd_in-appmsg">
@@ -22,8 +22,8 @@
                         </view>
                     </navigator>
                 </view>
-    </view>
-  </view>
+ </view>
+    </view>            
 </template>
 
 <script>
